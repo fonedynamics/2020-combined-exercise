@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\monjo90\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\monjo90\\.nuget\\packages"
+    ]
+  }
+}

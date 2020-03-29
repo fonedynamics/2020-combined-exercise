@@ -1,0 +1,39 @@
+<h1 id="tableLabel">Customers</h1>
+
+<p *ngIf="!customers"><em>Loading...</em></p>
+
+<div class="row">
+  <div class="col-2">
+    <select (change)="onGetCustomers($event.target.value)"
+            [(ngModel)]="selected"
+            style="width: 150px"
+            >
+
+      <option [value]="tag.value" *ngFor="let tag of tags">{{tag.name}}</option>
+    </select>
+  </div>
+  <div class="col-2">
+    <a class="btn btn-dark btn-primary" (click)="refresh()">Reset</a>
+  </div>
+  <div class="col-8">
+    
+  </div>
+
+</div>
+<br />
+<div class="row">
+  <table class='table table-striped' aria-labelledby="tableLabel" *ngIf="customers">
+      <thead>
+        <tr>
+          <th>Customer Name</th>
+          <th>No. Of Employees</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let customer of customers">
+          <td>{{ customer.name }}</td>
+          <td>{{ customer.numberOfEmployees }}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>

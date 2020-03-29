@@ -1,0 +1,19 @@
+<h2>User Login</h2>
+<div class="card card-body mb-3">
+  <form>
+    <div class="form-group">
+      <label>User Name</label>
+      <input type="text" class="form-control" [(ngModel)]="user.userName" name="userName" #userName>
+    </div>
+    <div class="form-group">
+      <label>Password</label>
+      <input type="password" class="form-control" [(ngModel)]="user.password" name="password" #password>
+    </div>
+
+    <button
+        (click)="onAuthenticateUser(userName.value, password.value)"
+        class="btn btn-dark btn-block">
+      Login
+    </button>
+  </form>
+</div>
