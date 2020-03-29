@@ -425,11 +425,11 @@ I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynam
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.csprojAssemblyReference.cache
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\staticwebassets\FoneDynamics.API.StaticWebAssets.Manifest.cache
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\staticwebassets\FoneDynamics.API.StaticWebAssets.xml
-I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.MvcApplicationPartsAssemblyInfo.cs
-I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.MvcApplicationPartsAssemblyInfo.cache
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.AssemblyInfoInputs.cache
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.AssemblyInfo.cs
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.RazorTargetAssemblyInfo.cache
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.csproj.CopyComplete
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.dll
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.pdb
+I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.MvcApplicationPartsAssemblyInfo.cs
+I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.API\obj\Debug\netcoreapp3.1\FoneDynamics.API.MvcApplicationPartsAssemblyInfo.cache

@@ -21,7 +21,6 @@ I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynam
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.Data\bin\Debug\netcoreapp3.1\FoneDynamics.Data.runtimeconfig.dev.json
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.Data\bin\Debug\netcoreapp3.1\FoneDynamics.Data.dll
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.Data\bin\Debug\netcoreapp3.1\FoneDynamics.Data.pdb
-I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.Data\obj\Debug\netcoreapp3.1\FoneDynamics.Data.csprojAssemblyReference.cache
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.Data\obj\Debug\netcoreapp3.1\FoneDynamics.Data.AssemblyInfoInputs.cache
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.Data\obj\Debug\netcoreapp3.1\FoneDynamics.Data.AssemblyInfo.cs
 I:\MyDocuments\SourceProjects\FoneDynamics-Exam\2020-combined-exercise\FoneDynamics.Data\obj\Debug\netcoreapp3.1\FoneDynamics.Data.dll
